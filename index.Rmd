@@ -1,7 +1,0 @@
----
-title: "New markdown"
-author: "musabdalash"
-date: "2023-09-09"
-output: github_document
----
-
