@@ -1,4 +1,0 @@
-
-``` r
-# HI THERE THIS IS THE FIRST TRY
-```
