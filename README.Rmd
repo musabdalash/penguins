@@ -10,11 +10,11 @@ date: "2023-09-09"
 output: github_document
 ---
 
-```{r loading packages}
+```{r loading packages, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(palmerpenguins)
 ```
-```{r ggplot}
+```{r ggplot, echo=FALSE, message=FALSE, warning=FALSE}
 ggplot(data = penguins) +
   geom_bar(mapping = aes(x=flipper_length_mm, ), color = "purple")
 ```
